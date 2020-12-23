@@ -1,0 +1,2 @@
+(this["webpackJsonpproject-tarot-vision"]=this["webpackJsonpproject-tarot-vision"]||[]).push([[62],{96:function(t,s,i){"use strict";i.r(s),s.default=i.p+"static/media/sw10.f66c9b04.png"}}]);
+//# sourceMappingURL=62.06997318.chunk.js.map
